@@ -1,0 +1,44 @@
+{
+  "name": "@salli94/vikingbay",
+  "version": "1.0.0",
+  "description": "The Ultimate Average Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "dev": "node scripts/dev.js",
+    "test": "echo 'Tests run in Claude Code environment'",
+    "build": "echo 'VikingBay is a Claude Code skill pack, not a compiled project'"
+  },
+  "keywords": [
+    "claude-code",
+    "skill-pack",
+    "ai-orchestration",
+    "alltaf",
+    "multi-agent",
+    "automation",
+    "vibe-coding"
+  ],
+  "author": "salli94",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salli94/vikingbay.git"
+  },
+  "homepage": "https://github.com/salli94/vikingbay",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "skills/",
+    "agents/",
+    "hooks/",
+    "docs/",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "README.md",
+    "LICENSE"
+  ]
+}
