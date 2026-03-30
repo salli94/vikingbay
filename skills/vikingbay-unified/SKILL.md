@@ -1,6 +1,6 @@
 # ⚔️ VikingBay: The Ultimate All-In-One Claude Code Skill Pack
 
-> **The Ultimate Average Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude**
+> **The Ultimate Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude**
 
 A unified orchestration system that merges alltaf's battle-tested patterns with oh-my-claudecode's multi-agent execution.
 

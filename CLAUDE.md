@@ -156,6 +156,6 @@ Stop any active mode: `/VikingBay:valhalla-reset`
 
 ---
 
-**Built for the average vibe-coder who wants superpowers.**
+**Built for the vibe-coder who wants superpowers.**
 
 ⚔️ *May your builds be swift, your tests be green, and your refactors be safe.* ⚔️

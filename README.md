@@ -1,6 +1,6 @@
 # ⚔️ VikingBay
 
-> **The Ultimate Average Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude**
+> **The Ultimate Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude**
 
 An all-in-one orchestration system for Claude Code that merges the best of alltaf's proven patterns with oh-my-claudecode's multi-agent execution. Works for solo hackers, teams, and everything in between.
 
@@ -184,6 +184,6 @@ MIT — Do whatever you want. Fork it, sell it, embed it, modify it. Zero restri
 
 ---
 
-**Built for the average vibe-coder who wants superpowers.**
+**Built for the vibe-coder who wants superpowers.**
 
 ⚔️ *May your builds be swift, your tests be green, and your refactors be safe.* ⚔️
