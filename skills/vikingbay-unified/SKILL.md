@@ -2,7 +2,7 @@
 
 > **The Ultimate Vibe-Coder Essentials + Universal All-Around Skillpack for ANYONE Using Claude**
 
-A unified orchestration system that merges alltaf's battle-tested patterns with oh-my-claudecode's multi-agent execution.
+A unified orchestration system that merges vikingbay's battle-tested patterns with oh-my-claudecode's multi-agent execution.
 
 ## Quick Start
 
@@ -125,17 +125,43 @@ Three-way iterative consensus planning:
 - **code-simplifier** (Opus) — Clarity improvements
 - **critic** (Opus) — Gap analysis, challenges
 
-## Alltaf Core Skills (Icelandic Battle-Tested)
+## VikingBay Core Skills (Battle-Tested)
 
-- **alltaf-build-loop** — Fix-verify loop until green
-- **alltaf-klara-byggja** — Strategic orchestration (the operating system)
-- **alltaf-fullstack-advance** — Vertical slice feature building
-- **alltaf-platform-ops** — Railway/Render/Supabase operations
-- **alltaf-ui-ux** — Advanced interface patterns
-- **alltaf-smart-compact** — Pre-compaction checkpoint
-- **alltaf-super-memory** — Cross-session memory reading
-- **alltaf-sync-build-state** — Sync build state with reality
-- **alltaf-verd-eg-betri** — Extract reusable lessons
+- **vikingbay-build-loop** — Fix-verify loop until green
+- **vikingbay-klara-byggja** — Strategic orchestration (the operating system)
+- **vikingbay-fullstack-advance** — Vertical slice feature building
+- **vikingbay-platform-ops** — Railway/Fly.io/Supabase/Vercel operations
+- **vikingbay-ui-ux** — Advanced interface patterns
+- **vikingbay-smart-compact** — Pre-compaction checkpoint
+- **vikingbay-super-memory** — Cross-session memory reading
+- **vikingbay-sync-build-state** — Sync build state with reality
+- **vikingbay-verd-eg-betri** — Extract reusable lessons
+
+## What's New (April 2026)
+
+### DAG Task Dependencies (einherjar + ragnarok)
+Tasks now support directed acyclic graph (DAG) dependency declarations. The planner agent emits tasks with a `blocks` field — Task C cannot start until Task A and B complete. Prevents hallucinated completion in parallel builds.
+```json
+{ "id": "task-3", "description": "Run tests", "blocks": ["task-1", "task-2"], "assignee": "verifier" }
+```
+
+### Peer-to-Peer Agent Messaging (einherjar direct-wire)
+Agents can now message each other directly via mailbox without routing through the lead — removes the coordination bottleneck at 10+ agents. Enable with `direct-wire: true` in vikingbay-config.json.
+```
+security-reviewer → executor: "VULN:[file]:[line]:[severity]"
+test-engineer → executor: "TEST-FAIL:[name]:[expected]:[got]"
+```
+
+### Visual Verdict Agent (UI QA)
+New `visual-verdict` agent in the Review Lane. Runs after qa-tester in ragnarok QA cycles and before reviewer approval in valholl. Takes a screenshot of the running app, compares against designer agent spec, emits pass/fail with annotated diff.
+
+### Cross-IDE Compatibility Header
+VikingBay now declares compatibility with Claude Code, Cursor, Gemini CLI, Codex CLI, and Antigravity IDE — discoverable in the universal skill marketplace.
+
+### Bifrost HUD with Worktree Awareness
+`skalds-chronicle --bifrost --watch` now shows per-worktree status during parallel execution. Configure in vikingbay-config.json under `bifrost.hud`.
+
+---
 
 ## Guardian System: Heimdall (oss-check)
 
@@ -226,13 +252,13 @@ Create `~/.claude/vikingbay-config.json`:
 
 **One fixed price metaphor.** Install VikingBay once, access everything. No paying for individual skills or modes.
 
-**Battle-tested.** Alltaf powers production systems for 5+ years. OMC has 15.8K GitHub stars. This works.
+**Battle-tested.** VikingBay powers production systems. OMC has 15.8K GitHub stars. This works.
 
 ## Documentation
 
 - **[MODES.md](../MODES.md)** — Deep dive into each execution mode
 - **[AGENTS.md](../AGENTS.md)** — Agent roles and specializations
-- **[ALLTAF.md](../ALLTAF.md)** — Alltaf skill reference
+- **[VIKINGBAY.md](../VIKINGBAY.md)** — VikingBay skill reference
 - **[PATTERNS.md](../PATTERNS.md)** — Reusable code patterns
 - **[SETUP.md](../SETUP.md)** — Installation troubleshooting
 

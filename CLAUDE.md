@@ -80,19 +80,19 @@ Consensus planning with multiple perspectives.
 
 **Output:** Validated architecture/plan with consensus
 
-## Alltaf Core
+## VikingBay Core
 
-Alltaf skills operate independently and compose with VikingBay modes:
+VikingBay skills operate independently and compose with VikingBay modes:
 
-- **alltaf-build-loop** — Fix-verify loop for broken builds
-- **alltaf-klara-byggja** — Strategic orchestration (the operating system)
-- **alltaf-fullstack-advance** — Vertical slice feature development
-- **alltaf-platform-ops** — Railway/Render/Supabase operations
-- **alltaf-ui-ux** — Advanced interface patterns
-- **alltaf-smart-compact** — Pre-compaction state checkpoint
-- **alltaf-super-memory** — Read cross-session project memory
-- **alltaf-sync-build-state** — Sync `.claude/state/` with reality
-- **alltaf-verd-eg-betri** — Extract reusable lessons from mistakes
+- **vikingbay-build-loop** — Fix-verify loop for broken builds
+- **vikingbay-klara-byggja** — Strategic orchestration (the operating system)
+- **vikingbay-fullstack-advance** — Vertical slice feature development
+- **vikingbay-platform-ops** — Railway/Render/Supabase operations
+- **vikingbay-ui-ux** — Advanced interface patterns
+- **vikingbay-smart-compact** — Pre-compaction state checkpoint
+- **vikingbay-super-memory** — Read cross-session project memory
+- **vikingbay-sync-build-state** — Sync `.claude/state/` with reality
+- **vikingbay-verd-eg-betri** — Extract reusable lessons from mistakes
 
 ## State Files
 
