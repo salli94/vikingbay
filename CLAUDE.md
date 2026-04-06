@@ -85,14 +85,14 @@ Consensus planning with multiple perspectives.
 VikingBay skills operate independently and compose with VikingBay modes:
 
 - **vikingbay-build-loop** — Fix-verify loop for broken builds
-- **vikingbay-klara-byggja** — Strategic orchestration (the operating system)
+- **vikingbay-build-orchestrate** — Strategic orchestration (the operating system)
 - **vikingbay-fullstack-advance** — Vertical slice feature development
 - **vikingbay-platform-ops** — Railway/Render/Supabase operations
 - **vikingbay-ui-ux** — Advanced interface patterns
 - **vikingbay-smart-compact** — Pre-compaction state checkpoint
 - **vikingbay-super-memory** — Read cross-session project memory
 - **vikingbay-sync-build-state** — Sync `.claude/state/` with reality
-- **vikingbay-verd-eg-betri** — Extract reusable lessons from mistakes
+- **vikingbay-get-better** — Extract reusable lessons from mistakes
 
 ## State Files
 

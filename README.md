@@ -33,7 +33,7 @@ VikingBay is a unified skill pack that turns Claude Code into a fully-orchestrat
 ### ⚙️ Alltaf Core (Icelandic Battle-Tested)
 
 - `alltaf-build-loop` — Fix-verify loop until green
-- `alltaf-klara-byggja` — Strategic orchestration (the operating system)
+- `alltaf-build-orchestrate` — Strategic orchestration (the operating system)
 - `alltaf-fullstack-advance` — Vertical slice feature building
 - `alltaf-platform-ops` — Railway/Render/Supabase operations
 - `alltaf-ui-ux` — Advanced interface & experience patterns

@@ -128,14 +128,14 @@ Three-way iterative consensus planning:
 ## VikingBay Core Skills (Battle-Tested)
 
 - **vikingbay-build-loop** — Fix-verify loop until green
-- **vikingbay-klara-byggja** — Strategic orchestration (the operating system)
+- **vikingbay-build-orchestrate** — Strategic orchestration (the operating system)
 - **vikingbay-fullstack-advance** — Vertical slice feature building
 - **vikingbay-platform-ops** — Railway/Fly.io/Supabase/Vercel operations
 - **vikingbay-ui-ux** — Advanced interface patterns
 - **vikingbay-smart-compact** — Pre-compaction checkpoint
 - **vikingbay-super-memory** — Cross-session memory reading
 - **vikingbay-sync-build-state** — Sync build state with reality
-- **vikingbay-verd-eg-betri** — Extract reusable lessons
+- **vikingbay-get-better** — Extract reusable lessons
 
 ## What's New (April 2026)
 
