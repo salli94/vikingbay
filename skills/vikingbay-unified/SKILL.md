@@ -125,6 +125,11 @@ Three-way iterative consensus planning:
 - **code-simplifier** (Opus) — Clarity improvements
 - **critic** (Opus) — Gap analysis, challenges
 
+## MaxPower Skills
+
+- **maxpower-write-new-skill** (`MAXSKILL`) — 3 search agents + expert council build any new skill from scratch. Opus-only.
+- **maxpower-deep-dive** (`DEEPDIVE`) — 3 search agents + uniquely-prompted council accomplish any goal: code, skill, doc, plan, or prompt. Opus-only.
+
 ## VikingBay Core Skills (Battle-Tested)
 
 - **vikingbay-build-loop** — Fix-verify loop until green
